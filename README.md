@@ -16,14 +16,23 @@ This replication package includes all data, R & Stata code, and figures necessar
 FOLDER STRUCTURE  
 .
 ├── Analysis/             		 	<- Output folder for Stata gph files 
+
 ├── Figures/          			<- Output folder for figures  
+
 ├── Merge/         	  			<- Folder for raw and merging datasets
+
 ├── Webscrapped/        			<- Output folder for web-scrapped raw visit datasets
+
 ├── 1_Web Scrapping Visit Data.R	<- R script for web-scrapping U.S. diplomatic visit data
+
 ├── 2_DV Dataset.do			<- Stata do-file for constructing the DV dataset
+
 ├── 3_Comprehensive Dataset.do	<- Stata do-file for constructing the Master dataset
+
 ├── 4_Replications.do			<- Stata do-file for replication
+
 ├── Master.dta				<- Master data file 
+
 └── README.txt         			<- This file
 
 ---
