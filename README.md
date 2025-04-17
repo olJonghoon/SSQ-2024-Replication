@@ -2,8 +2,11 @@ Replication Materials for:
 
 “Travel to allies or adversaries? A compositional analysis of U.S. diplomatic visits”
 Social Science Quarterly, 2024
+
 Author: Jonghoon Lee  and James D. Kim
+
 Email: jolee@astate.edu
+
 Date: April 2025  
 
 ---
